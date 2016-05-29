@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 67049919b4f38a04fae636a7037c8135
+timeCreated: 1450444413
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pez_0
+    21300002: Pez_1
+    21300004: Pez_2
+    21300006: Pez_3
+    21300008: Pez_4
+    21300010: Pez_5
+    21300012: Pez_6
+    21300014: Pez_7
+    21300016: Pez_8
+    21300018: Pez_9
+    21300020: Pez_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pez_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 369
+        width: 144
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pez_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 328
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pez_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 259
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pez_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 259
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pez_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 300
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pez_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 273
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pez_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 250
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pez_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 273
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pez_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 275
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pez_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 244
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pez_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 210
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

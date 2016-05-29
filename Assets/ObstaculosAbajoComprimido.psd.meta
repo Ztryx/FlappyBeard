@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 192f57d7187adce459f0fc5e5b9b2f51
+timeCreated: 1464552291
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ObstaculosAbajoComprimido_0
+    21300002: ObstaculosAbajoComprimido_1
+    21300004: ObstaculosAbajoComprimido_2
+    21300006: ObstaculosAbajoComprimido_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ObstaculosAbajoComprimido_0
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 387
+        width: 113
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -131}
+        - {x: 56.5, y: -72}
+        - {x: 56.5, y: 131}
+        - {x: -56.5, y: 131}
+        - {x: -56.5, y: -4}
+        - {x: -51.5, y: -131}
+    - name: ObstaculosAbajoComprimido_1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 368
+        width: 94
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -50}
+        - {x: -47, y: -88}
+        - {x: -36, y: -92}
+        - {x: 31, y: -136}
+        - {x: 47, y: -136}
+        - {x: 47, y: 136}
+        - {x: 30, y: 136}
+        - {x: 29, y: 134}
+    - name: ObstaculosAbajoComprimido_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 366
+        width: 96
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -105}
+        - {x: 18, y: -137}
+        - {x: 48, y: -137}
+        - {x: 48, y: 13}
+        - {x: 37, y: 137}
+        - {x: -11, y: 137}
+        - {x: -48, y: 0}
+    - name: ObstaculosAbajoComprimido_3
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 370
+        width: 68
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 130}
+        - {x: -18, y: 126}
+        - {x: -34, y: 67}
+        - {x: -34, y: -74}
+        - {x: -9, y: -130}
+        - {x: 27, y: -130}
+        - {x: 34, y: -68}
+        - {x: 34, y: 130}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

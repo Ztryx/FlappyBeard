@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 4fbc8e14aeea6234cb4f92cfeee035c4
+timeCreated: 1464552306
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ObstaculosArribaComprimido_0
+    21300002: ObstaculosArribaComprimido_1
+    21300004: ObstaculosArribaComprimido_2
+    21300006: ObstaculosArribaComprimido_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ObstaculosArribaComprimido_0
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 440
+        width: 59
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 130}
+        - {x: -29.5, y: 130}
+        - {x: -29.5, y: -122}
+        - {x: -26.5, y: -130}
+        - {x: 7.5, y: -130}
+        - {x: 25.5, y: -103}
+        - {x: 29.5, y: -78}
+        - {x: 29.5, y: 99}
+    - name: ObstaculosArribaComprimido_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 428
+        width: 96
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 138}
+        - {x: -48, y: 138}
+        - {x: -48, y: 75}
+        - {x: -31, y: 32}
+        - {x: -29, y: -73}
+        - {x: -23, y: -137}
+        - {x: -19, y: -138}
+        - {x: 0, y: -138}
+        - {x: 4, y: -136}
+        - {x: 48, y: 35}
+        - {x: 48, y: 93}
+    - name: ObstaculosArribaComprimido_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 428
+        width: 93
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 136.5}
+        - {x: -46.5, y: 136.5}
+        - {x: -46.5, y: 109.5}
+        - {x: -43.5, y: 77.5}
+        - {x: -44.5, y: -90.5}
+        - {x: -42.5, y: -136.5}
+        - {x: -29.5, y: -136.5}
+        - {x: -22.5, y: -120.5}
+        - {x: 46.5, y: 53.5}
+        - {x: 46.5, y: 91.5}
+    - name: ObstaculosArribaComprimido_3
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 420
+        width: 114
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 124}
+        - {x: 11, y: 131}
+        - {x: -12, y: 131}
+        - {x: -23, y: 127}
+        - {x: -57, y: -83}
+        - {x: -57, y: -130}
+        - {x: -56, y: -131}
+        - {x: 57, y: -131}
+        - {x: 57, y: -107}
+        - {x: 50, y: -105}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
