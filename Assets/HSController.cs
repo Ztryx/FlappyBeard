@@ -12,7 +12,6 @@ public class HSController : MonoBehaviour
 	public string highscoreURL = "http://www.oxik.net/conectaconlafelicidad/access/displayPuntuacionFlappy.php";
 	public Text tableScores;
 	public InputField nombre;
-	public InputField correo;
 	public Animator gracias;
 	public Button enviar;
 
@@ -67,8 +66,7 @@ public class HSController : MonoBehaviour
 
 	public void EnviarDatos(){
 		Debug.Log(nombre.text);
-		Debug.Log (correo.text);
-		StartCoroutine (PostScores (nombre.text, correo.text, Score.score-1));
+		StartCoroutine (PostScores (nombre.text, "info@info.net", Score.score-1));
 		gracias.Play ("GraciasParticipar");
 		enviar.interactable = false;
 	}

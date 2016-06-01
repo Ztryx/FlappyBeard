@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 4e7de6e42f0946246bfc72eaa0f09ee4
+timeCreated: 1464621456
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Portada_0
+    21300002: Portada_6
+    21300004: Portada_10
+    21300006: Portada_11
+    21300008: Portada_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Portada_0
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 447
+        width: 173
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -34}
+        - {x: -48.5, y: 49}
+        - {x: -86.5, y: 49}
+        - {x: -86.5, y: -49}
+        - {x: -32.5, y: -49}
+      - - {x: -1.5, y: 24}
+        - {x: -2.5, y: 47}
+        - {x: -5.5, y: 49}
+        - {x: -28.5, y: 49}
+        - {x: -32.5, y: 31}
+        - {x: -32.5, y: -49}
+        - {x: -22.5, y: -49}
+        - {x: -21.5, y: -48}
+        - {x: -19.5, y: -49}
+        - {x: -1.5, y: -49}
+      - - {x: 55.5, y: 4}
+        - {x: 55.5, y: 8}
+        - {x: 54.5, y: -43}
+        - {x: 55.5, y: -49}
+        - {x: 64.5, y: -49}
+        - {x: 66.5, y: -46}
+        - {x: 86.5, y: 30}
+        - {x: 86.5, y: 49}
+        - {x: 51.5, y: 49}
+        - {x: 51.5, y: 43}
+        - {x: 52.5, y: 42}
+        - {x: 52.5, y: 40}
+        - {x: 51.5, y: 44}
+        - {x: 50.5, y: 49}
+        - {x: -2.5, y: 49}
+        - {x: -2.5, y: -49}
+        - {x: 37.5, y: -49}
+    - name: Portada_7
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 448
+        width: 154
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 49}
+        - {x: -77, y: -48}
+        - {x: -76, y: -49}
+        - {x: -48, y: -49}
+        - {x: -44, y: -38}
+        - {x: -44, y: 48}
+        - {x: -47, y: 49}
+      - - {x: -44, y: 49}
+        - {x: -45, y: 45}
+        - {x: -45, y: -49}
+        - {x: -14, y: -49}
+        - {x: -14, y: 49}
+      - - {x: -15, y: 49}
+        - {x: -15, y: -49}
+        - {x: 45, y: -49}
+        - {x: 45, y: 44}
+        - {x: 42, y: 49}
+      - - {x: 46, y: 49}
+        - {x: 46, y: 48}
+        - {x: 45, y: -26}
+        - {x: 45, y: -48}
+        - {x: 46, y: -49}
+        - {x: 70, y: -49}
+        - {x: 77, y: -36}
+        - {x: 77, y: 33}
+        - {x: 66, y: 49}
+    - name: Portada_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 268
+        width: 569
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 214.5, y: -79}
+        - {x: 227.5, y: -77}
+        - {x: 284.5, y: -26}
+        - {x: 284.5, y: 46}
+        - {x: 258.5, y: 79}
+        - {x: 223.5, y: 79}
+        - {x: 185.5, y: 51}
+        - {x: 201.5, y: 22}
+        - {x: 211.5, y: 17}
+        - {x: 221.5, y: 19}
+        - {x: 225.5, y: 2}
+        - {x: 101.5, y: 64}
+        - {x: 68.5, y: 79}
+        - {x: -78.5, y: 79}
+        - {x: -107.5, y: 61}
+        - {x: -211.5, y: 67}
+        - {x: -220.5, y: 79}
+        - {x: -239.5, y: 79}
+        - {x: -284.5, y: 55}
+        - {x: -284.5, y: -20}
+        - {x: -264.5, y: -53}
+        - {x: -199.5, y: -79}
+        - {x: -93.5, y: -79}
+        - {x: -16.5, y: -23}
+        - {x: 98.5, y: -76}
+        - {x: 126.5, y: -79}
+    - name: Portada_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 94
+        width: 585
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167.5, y: -45.5}
+        - {x: 279.5, y: -61.5}
+        - {x: 284.5, y: -58.5}
+        - {x: 283.5, y: -49.5}
+        - {x: 266.5, y: -12.5}
+        - {x: 276.5, y: -1.5}
+        - {x: 292.5, y: 16.5}
+        - {x: 292.5, y: 33.5}
+        - {x: 291.5, y: 36.5}
+        - {x: 166.5, y: 55.5}
+        - {x: 101.5, y: 61.5}
+        - {x: -101.5, y: 61.5}
+        - {x: -144.5, y: 58.5}
+        - {x: -230.5, y: 47.5}
+        - {x: -292.5, y: 34.5}
+        - {x: -292.5, y: 21.5}
+        - {x: -261.5, y: -12.5}
+        - {x: -272.5, y: -61.5}
+        - {x: -250.5, y: -61.5}
+        - {x: -200.5, y: -49.5}
+        - {x: -59.5, y: -39.5}
+        - {x: 53.5, y: -39.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 6be6f6934d6f96140b5a820586233f04
+timeCreated: 1464642702
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lettering_0
+    21300002: Lettering_1
+    21300004: Lettering_2
+    21300006: Lettering_3
+    21300008: Lettering_4
+    21300010: Lettering_5
+    21300012: Lettering_6
+    21300014: Lettering_7
+    21300016: Lettering_8
+    21300018: Lettering_9
+    21300020: Lettering_10
+    21300022: Lettering_11
+    21300024: Lettering_12
+    21300026: Lettering_13
+    21300028: Lettering_14
+    21300030: Lettering_15
+    21300032: Lettering_16
+    21300034: Lettering_17
+    21300036: Lettering_18
+    21300038: Lettering_19
+    21300040: Lettering_20
+    21300042: Lettering_21
+    21300044: Lettering_22
+    21300046: Lettering_23
+    21300048: Lettering_24
+    21300050: Lettering_25
+    21300052: Lettering_26
+    21300054: Lettering_27
+    21300056: Lettering_28
+    21300058: Lettering_29
+    21300060: Lettering_30
+    21300062: Lettering_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Lettering_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 512
+        width: 47
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 70}
+        - {x: -23.5, y: 68}
+        - {x: -23.5, y: -70}
+        - {x: 23.5, y: -70}
+        - {x: 23.5, y: 51}
+        - {x: 14.5, y: 70}
+    - name: Lettering_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 545
+        width: 349
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -166.5, y: 33}
+        - {x: -168.5, y: 29}
+        - {x: -174.5, y: 28}
+        - {x: -174.5, y: -29}
+        - {x: -168.5, y: -33}
+        - {x: 168.5, y: -33}
+        - {x: 174.5, y: -28}
+        - {x: 174.5, y: 28}
+        - {x: 168.5, y: 33}
+    - name: Lettering_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 438
+        width: 377
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144.5, y: -107}
+        - {x: 161.5, y: -93}
+        - {x: 165.5, y: -79}
+        - {x: 188.5, y: -36}
+        - {x: 188.5, y: 34}
+        - {x: 177.5, y: 58}
+        - {x: 164.5, y: 89}
+        - {x: 146.5, y: 107}
+        - {x: 91.5, y: 107}
+        - {x: 68.5, y: 101}
+        - {x: 5.5, y: 102}
+        - {x: -14.5, y: 92}
+        - {x: -84.5, y: 107}
+        - {x: -136.5, y: 107}
+        - {x: -152.5, y: 93}
+        - {x: -185.5, y: 45}
+        - {x: -188.5, y: 35}
+        - {x: -188.5, y: -38}
+        - {x: -179.5, y: -59}
+        - {x: -152.5, y: -98}
+        - {x: -136.5, y: -107}
+        - {x: -63.5, y: -107}
+        - {x: 1.5, y: -103}
+        - {x: 22.5, y: -93}
+        - {x: 93.5, y: -107}
+    - name: Lettering_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 409
+        width: 366
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 183, y: 26}
+        - {x: 183, y: 37}
+        - {x: -183, y: 37}
+        - {x: -183, y: 32}
+        - {x: -178, y: 20}
+        - {x: -183, y: -31}
+        - {x: -183, y: -37}
+        - {x: 183, y: -37}
+        - {x: 183, y: -21}
+        - {x: 176, y: 7}
+    - name: Lettering_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 55
+        width: 310
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 159.5}
+        - {x: -97, y: 159.5}
+        - {x: -111, y: 155.5}
+        - {x: -154, y: 31.5}
+        - {x: -154, y: -103.5}
+        - {x: -144, y: -125.5}
+        - {x: -60, y: -158.5}
+        - {x: 117, y: -158.5}
+        - {x: 154, y: -68.5}
+        - {x: 154, y: 103.5}
+      - - {x: -120, y: -22.5}
+        - {x: -124, y: -29.5}
+        - {x: -124, y: -30.5}
+        - {x: -128, y: -34.5}
+        - {x: -127, y: -35.5}
+        - {x: -124, y: -32.5}
+        - {x: -127, y: -14.5}
+        - {x: -113, y: 42.5}
+        - {x: -114, y: 46.5}
+        - {x: -117, y: 49.5}
+        - {x: -119, y: 49.5}
+        - {x: -114, y: 47.5}
+        - {x: -111, y: 50.5}
+        - {x: -68, y: 108.5}
+        - {x: -65, y: 112.5}
+        - {x: -64, y: 116.5}
+        - {x: -64, y: 121.5}
+        - {x: -66, y: 122.5}
+        - {x: -67, y: 114.5}
+        - {x: -67, y: 102.5}
+        - {x: -63, y: 98.5}
+        - {x: -61, y: 98.5}
+        - {x: 115, y: 22.5}
+        - {x: 124, y: 26.5}
+        - {x: 122, y: 28.5}
+        - {x: 129, y: 36.5}
+        - {x: 124, y: 32.5}
+        - {x: 124, y: 29.5}
+        - {x: 127, y: -11.5}
+        - {x: 114, y: -43.5}
+        - {x: 114, y: -46.5}
+        - {x: 116, y: -49.5}
+        - {x: 119, y: -49.5}
+        - {x: 117, y: -47.5}
+        - {x: 114, y: -47.5}
+        - {x: 109, y: -48.5}
+      - - {x: 39, y: -57.5}
+        - {x: 35, y: -58.5}
+        - {x: 35, y: -73.5}
+        - {x: 46, y: -73.5}
+        - {x: 47, y: -70.5}
+        - {x: 47, y: -58.5}
+        - {x: 46, y: -57.5}
+      - - {x: -49, y: -13.5}
+        - {x: -49, y: -54.5}
+        - {x: -43, y: -66.5}
+        - {x: -23, y: -66.5}
+        - {x: -21, y: -54.5}
+        - {x: -21, y: -13.5}
+      - - {x: -14, y: -12.5}
+        - {x: -19, y: -16.5}
+        - {x: -19, y: -62.5}
+        - {x: -15, y: -66.5}
+        - {x: 2, y: -66.5}
+        - {x: 3, y: -64.5}
+        - {x: 3, y: -12.5}
+      - - {x: 6, y: -13.5}
+        - {x: 5, y: -16.5}
+        - {x: 5, y: -66.5}
+        - {x: 33, y: -66.5}
+        - {x: 33, y: -13.5}
+      - - {x: 37, y: -13.5}
+        - {x: 35, y: -15.5}
+        - {x: 35, y: -54.5}
+        - {x: 38, y: -57.5}
+        - {x: 44, y: -57.5}
+        - {x: 47, y: -54.5}
+        - {x: 47, y: -16.5}
+        - {x: 44, y: -13.5}
+      - - {x: -63, y: 50.5}
+        - {x: -63, y: 11.5}
+        - {x: -62, y: 8.5}
+        - {x: -55, y: 8.5}
+        - {x: -52, y: 9.5}
+        - {x: -52, y: 50.5}
+        - {x: -54, y: 52.5}
+        - {x: -61, y: 52.5}
+      - - {x: -41, y: 68.5}
+        - {x: -49, y: 63.5}
+        - {x: -49, y: 19.5}
+        - {x: -47, y: 14.5}
+        - {x: 1, y: 14.5}
+        - {x: 1, y: 68.5}
+      - - {x: 2, y: 68.5}
+        - {x: 2, y: 14.5}
+        - {x: 30, y: 14.5}
+        - {x: 30, y: 65.5}
+        - {x: 23, y: 68.5}
+      - - {x: 38, y: 68.5}
+        - {x: 33, y: 63.5}
+        - {x: 33, y: 15.5}
+        - {x: 36, y: 14.5}
+        - {x: 61, y: 14.5}
+        - {x: 61, y: 65.5}
+        - {x: 51, y: 68.5}
+      - - {x: -63, y: 68.5}
+        - {x: -63, y: 53.5}
+        - {x: -52, y: 53.5}
+        - {x: -52, y: 68.5}
+    - name: Lettering_6
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 267
+        width: 216
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: -63}
+        - {x: 104, y: -63}
+        - {x: 104, y: -44}
+        - {x: -104, y: -44}
+      - - {x: 74, y: 26}
+        - {x: 70, y: 30}
+        - {x: 52, y: 30}
+        - {x: 48, y: 28}
+        - {x: 48, y: -19}
+        - {x: 51, y: -22}
+        - {x: 56, y: -22}
+        - {x: 59, y: -19}
+        - {x: 60, y: -22}
+        - {x: 74, y: -22}
+      - - {x: -74, y: 30}
+        - {x: -77, y: 29}
+        - {x: -77, y: -17}
+        - {x: -76, y: -21}
+        - {x: -56, y: -21}
+        - {x: -56, y: 30}
+      - - {x: -32, y: 30}
+        - {x: -47, y: 30}
+        - {x: -53, y: 25}
+        - {x: -53, y: -21}
+        - {x: -26, y: -21}
+        - {x: -26, y: 23}
+      - - {x: -24, y: 30}
+        - {x: -24, y: -12}
+        - {x: -16, y: -21}
+        - {x: -4, y: -21}
+        - {x: 2, y: -14}
+        - {x: 2, y: 30}
+      - - {x: 13, y: 30}
+        - {x: 6, y: 30}
+        - {x: 5, y: 26}
+        - {x: 5, y: -20}
+        - {x: 8, y: -21}
+        - {x: 16, y: -21}
+        - {x: 16, y: 29}
+      - - {x: 21, y: 30}
+        - {x: 19, y: 27}
+        - {x: 19, y: -21}
+        - {x: 46, y: -21}
+        - {x: 46, y: 27}
+        - {x: 37, y: 30}
+      - - {x: -92, y: 11}
+        - {x: -92, y: -2}
+        - {x: -81, y: -2}
+        - {x: -79, y: 0}
+        - {x: -79, y: 11}
+      - - {x: 81, y: 11}
+        - {x: 79, y: 9}
+        - {x: 79, y: 0}
+        - {x: 81, y: -2}
+        - {x: 90, y: -2}
+        - {x: 92, y: 0}
+        - {x: 92, y: 9}
+        - {x: 90, y: 11}
+      - - {x: -104, y: 47}
+        - {x: -103, y: 45}
+        - {x: 104, y: 45}
+        - {x: 104, y: 65}
+        - {x: -102, y: 65}
+        - {x: -104, y: 63}
+    - name: Lettering_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 44
+        width: 390
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -195, y: -2}
+        - {x: -195, y: -23}
+        - {x: -191, y: -31}
+        - {x: -174, y: -63}
+        - {x: -148, y: -93}
+        - {x: 143, y: -93}
+        - {x: 195, y: -41}
+        - {x: 195, y: -9}
+        - {x: 149, y: -2}
+      - - {x: -107, y: 93}
+        - {x: -107, y: 9}
+        - {x: -94, y: 9}
+        - {x: -92, y: 10}
+        - {x: -92, y: 93}
+      - - {x: -76, y: 93}
+        - {x: -84, y: 80}
+        - {x: -84, y: 10}
+        - {x: -82, y: 9}
+        - {x: -46, y: 9}
+        - {x: -42, y: 10}
+        - {x: -42, y: 80}
+        - {x: -49, y: 93}
+      - - {x: -34, y: 90}
+        - {x: -34, y: 12}
+        - {x: -33, y: 9}
+        - {x: -23, y: 9}
+        - {x: -19, y: 10}
+        - {x: -19, y: 90}
+        - {x: -22, y: 93}
+        - {x: -31, y: 93}
+      - - {x: 37, y: 90}
+        - {x: 37, y: 12}
+        - {x: 38, y: 9}
+        - {x: 48, y: 9}
+        - {x: 52, y: 10}
+        - {x: 52, y: 90}
+        - {x: 49, y: 93}
+        - {x: 40, y: 93}
+      - - {x: -8, y: 93}
+        - {x: -11, y: 84}
+        - {x: -11, y: 10}
+        - {x: 31, y: 10}
+        - {x: 31, y: 93}
+      - - {x: 93, y: 93}
+        - {x: 72, y: 93}
+        - {x: 60, y: 88}
+        - {x: 60, y: 19}
+        - {x: 68, y: 10}
+        - {x: 90, y: 10}
+        - {x: 102, y: 15}
+        - {x: 102, y: 84}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

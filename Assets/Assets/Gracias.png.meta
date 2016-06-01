@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: aaeb175eb7cd34f41ad0b76215088049
-timeCreated: 1464615766
+guid: 7cef4737fcab15643a5df0902b605dff
+timeCreated: 1464646871
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Tierra_0
+    21300000: Gracias_0
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -51,21 +51,32 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Tierra_0
+    - name: Gracias_0
       rect:
         serializedVersion: 2
-        x: 102
-        y: 625
-        width: 474
-        height: 71
+        x: 61
+        y: 444
+        width: 222
+        height: 233
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -237, y: 35.5}
-        - {x: -237, y: -35.5}
-        - {x: 237, y: -35.5}
-        - {x: 237, y: 35.5}
+      - - {x: 45, y: 113.5}
+        - {x: 37, y: 116.5}
+        - {x: -29, y: 116.5}
+        - {x: -47, y: 113.5}
+        - {x: -86, y: 62.5}
+        - {x: -111, y: 19.5}
+        - {x: -111, y: -36.5}
+        - {x: -109, y: -49.5}
+        - {x: -60, y: -111.5}
+        - {x: -44, y: -116.5}
+        - {x: 31, y: -116.5}
+        - {x: 55, y: -112.5}
+        - {x: 107, y: -45.5}
+        - {x: 111, y: -37.5}
+        - {x: 111, y: 26.5}
     outline: []
   spritePackingTag: 
   userData: 

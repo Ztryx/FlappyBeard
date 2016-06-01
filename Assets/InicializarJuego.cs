@@ -18,4 +18,9 @@ public class InicializarJuego : MonoBehaviour {
 	public void Comenzar() {
 		Application.LoadLevel ("MainScene");
 	}
+
+    public void VolverMenu()
+    {
+        Application.LoadLevel("Portada");
+    }
 }

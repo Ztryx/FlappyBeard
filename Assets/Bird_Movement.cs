@@ -21,6 +21,11 @@ public class Bird_Movement : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start () {
+        if (PlayerPrefs.GetInt("GodMode") == 1)
+            godMode = true;
+        else
+            godMode = false;
+        
 		puntuacion.SetActive (true);
 		animator = transform.GetComponentInChildren<Animator>();
 		
