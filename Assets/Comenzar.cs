@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class Comenzar : MonoBehaviour {
@@ -14,7 +15,7 @@ public class Comenzar : MonoBehaviour {
 	}
 
 	public void PulsarComenzar () {
-		Application.LoadLevel ("MainScene");
+        SceneManager.LoadScene("MainScene");
 	}
 
 }

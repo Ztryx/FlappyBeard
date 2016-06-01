@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class InicializarJuego : MonoBehaviour {
@@ -16,11 +17,10 @@ public class InicializarJuego : MonoBehaviour {
 	}
 
 	public void Comenzar() {
-		Application.LoadLevel ("MainScene");
+        SceneManager.LoadScene("MainScene");
 	}
 
-    public void VolverMenu()
-    {
-        Application.LoadLevel("Portada");
+    public void VolverMenu() {
+        SceneManager.LoadScene("Portada");
     }
 }
