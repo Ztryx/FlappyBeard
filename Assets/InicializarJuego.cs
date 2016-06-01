@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
 
@@ -17,11 +18,14 @@ public class InicializarJuego : MonoBehaviour {
 	}
 
 	public void Comenzar() {
-		Application.LoadLevel ("MainScene");
+        SceneManager.LoadScene("MainScene");
 	}
 
-    public void SettingsButtonBehaviour()
-    {
-        Application.LoadLevel("Ajustes");
+    public void VolverMenu() {
+        SceneManager.LoadScene("Portada");
+    }
+
+    public void SettingsButtonBehaviour() {
+        SceneManager.LoadScene("Ajustes");
     }
 }
