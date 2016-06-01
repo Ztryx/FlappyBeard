@@ -1,9 +1,10 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class InicializarJuego : MonoBehaviour {
 
-
+    public Button settingsButton;
 
 	// Use this for initialization
 	void Start () {
@@ -19,8 +20,8 @@ public class InicializarJuego : MonoBehaviour {
 		Application.LoadLevel ("MainScene");
 	}
 
-    public void VolverMenu()
+    public void SettingsButtonBehaviour()
     {
-        Application.LoadLevel("Portada");
+        Application.LoadLevel("Ajustes");
     }
 }
