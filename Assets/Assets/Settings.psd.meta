@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 67ec0460aa82d304caf403aeec4e6cb4
+timeCreated: 1464810481
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Settings_0
+    21300002: Settings_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Settings_0
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 347
+        width: 375
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114.5, y: -125}
+        - {x: -114.5, y: -132}
+        - {x: -112.5, y: -134}
+        - {x: -114.5, y: -143}
+        - {x: -115.5, y: -115}
+        - {x: -106.5, y: -122}
+        - {x: -99.5, y: -122}
+        - {x: -96.5, y: -119}
+        - {x: -96.5, y: -108}
+        - {x: -99.5, y: -99}
+        - {x: -122.5, y: -99}
+        - {x: -127.5, y: -107}
+        - {x: -127.5, y: -152}
+        - {x: -119.5, y: -158}
+        - {x: -106.5, y: -158}
+        - {x: -96.5, y: -154}
+        - {x: -96.5, y: -123}
+        - {x: -113.5, y: -121}
+      - - {x: -93.5, y: -99}
+        - {x: -93.5, y: -156}
+        - {x: -90.5, y: -158}
+        - {x: -66.5, y: -158}
+        - {x: -63.5, y: -157}
+        - {x: -63.5, y: -99}
+      - - {x: -9.5, y: -99}
+        - {x: -9.5, y: -158}
+        - {x: 39.5, y: -158}
+        - {x: 39.5, y: -99}
+      - - {x: 49.5, y: -99}
+        - {x: 42.5, y: -102}
+        - {x: 42.5, y: -153}
+        - {x: 50.5, y: -158}
+        - {x: 68.5, y: -158}
+        - {x: 72.5, y: -154}
+        - {x: 72.5, y: -100}
+        - {x: 71.5, y: -99}
+      - - {x: -59.5, y: -99}
+        - {x: -59.5, y: -157}
+        - {x: -28.5, y: -157}
+        - {x: -28.5, y: -99}
+      - - {x: 80.5, y: -99}
+        - {x: 76.5, y: -101}
+        - {x: 76.5, y: -153}
+        - {x: 79.5, y: -157}
+        - {x: 106.5, y: -157}
+        - {x: 107.5, y: -152}
+        - {x: 107.5, y: -99}
+      - - {x: 111.5, y: -99}
+        - {x: 111.5, y: -157}
+        - {x: 134.5, y: -157}
+        - {x: 134.5, y: -99}
+      - - {x: 7.5, y: 157}
+        - {x: 2.5, y: 157}
+        - {x: -1.5, y: 155}
+        - {x: -145.5, y: -79}
+        - {x: -145.5, y: -85}
+        - {x: -144.5, y: -87}
+        - {x: 152.5, y: -87}
+        - {x: 154.5, y: -85}
+        - {x: 154.5, y: -80}
+      - - {x: 62.5, y: -13}
+        - {x: 53.5, y: -23}
+        - {x: 53.5, y: -30}
+        - {x: 57.5, y: -31}
+        - {x: 72.5, y: -31}
+        - {x: 72.5, y: -21}
+        - {x: 69.5, y: -13}
+      - - {x: -12.5, y: 14}
+        - {x: -12.5, y: -18}
+        - {x: 13.5, y: -18}
+        - {x: 19.5, y: -12}
+        - {x: 19.5, y: 5}
+        - {x: 16.5, y: 14}
+    - name: Settings_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 181
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 123}
+        - {x: -53, y: 39}
+        - {x: -57, y: -48}
+        - {x: -57, y: -125}
+        - {x: 53, y: -125}
+        - {x: 53, y: 63}
+        - {x: 5, y: 123}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

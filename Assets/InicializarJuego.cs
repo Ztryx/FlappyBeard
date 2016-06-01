@@ -1,10 +1,11 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 using System.Collections;
 
 public class InicializarJuego : MonoBehaviour {
 
-
+    public Button settingsButton;
 
 	// Use this for initialization
 	void Start () {
@@ -22,5 +23,9 @@ public class InicializarJuego : MonoBehaviour {
 
     public void VolverMenu() {
         SceneManager.LoadScene("Portada");
+    }
+
+    public void SettingsButtonBehaviour() {
+        SceneManager.LoadScene("Ajustes");
     }
 }

@@ -4,15 +4,23 @@ using System.Collections;
 
 public class Inicialización : MonoBehaviour {
 
-	public Text titulo;
+    public GameObject GodModeButton;
 
 	// Use this for initialization
 	void Start () {
-		titulo.text = "TU PUNTUACION ES: " + Score.score;
-	}
+        if (PlayerPrefs.GetInt("GodMode") == 1)
+            GodModeButton.active = true;
+        else
+            GodModeButton.active = false;
+    }
 	
 	// Update is called once per frame
 	void Update () {
 	
 	}
+
+    public void Menu ()
+    {
+        Application.LoadLevel("Portada");
+    }
 }
